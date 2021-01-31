@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontend projects and Python APIs
-- 🌱 I’m currently learning Backend development
+- 🌱 I’m currently learning Backend development stuff
 - 👯 I’m looking to collaborate on more projects whatever you like to
 - 💬 Ask me about technical stuff and knock knock jokes😉
 - 📫 How to reach me: kumaranmohan1106@gmail.com
