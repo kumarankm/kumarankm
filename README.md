@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on more projects whatever you like to
 - 💬 Ask me about technical stuff and knock knock jokes😉
 - 📫 How to reach me: kumaranmohan1106@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I'm the guy who codes everyday🤣 
--->
+
 
 <h3 align="center"> Here is my GitHub Status📜🖊️</h3>
 <p align="center">
