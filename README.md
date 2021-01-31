@@ -27,7 +27,4 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/kumarantechie/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Sad Day? Let's bring a Smile on your Face :wink:</h2>
-<p align="center">
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
-</p>
+<h2 align="center">Thanks for the visit, Do follow for the future open source collabration🥳!</h2>
