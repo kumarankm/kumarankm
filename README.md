@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"> Here is my GitHub Status📜🖊️</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kumarankm&layout=compact&hide=html&theme=jolly" alt="kumarankm" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=kumarankm&show_icons=true&theme=tokyonight&count_private=true" alt="kumarankm" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">📫 Reach out to me on</h2>
