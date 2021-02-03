@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on more projects whatever you like to
 - 💬 Ask me about technical stuff and knock knock jokes😉
 - 📫 How to reach me: Visit my Website : <a href="https://kumarankm.github.io/">Kumaran KM</a>
-- ⚡ Fun fact: I'm the guy who codes everyday🤣 <br>
+- ⚡ Fun fact: I'm the guy who codes everyday🤣 <br><br><br>
 
 
 <h3 align="center"> Here is my GitHub Status📜🖊️</h3>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarankm" alt="herokuapp stat" />
 </p>
-
+<br> 
 
 <h2 align="center">📫 Reach me on</h2>
 <p align="center">
