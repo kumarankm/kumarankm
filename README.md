@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <h3 align="center"> Here is my GitHub Status📜🖊️</h3>
 
-<h5 align="center"> Status 1📜</h5>
+<h4 align="center"> Status 1📜</h4>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kumarankm&show_icons=true&theme=tokyonight&count_private=true" alt="kumarankm" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h5 align="center"> Status 2📜</h5>
+<h4 align="center"> Status 2📜</h4>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=kumarankm&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 </p>
