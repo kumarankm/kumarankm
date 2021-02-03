@@ -36,10 +36,7 @@ Here are some ideas to get you started:
 <h2 align="center">📫 Reach me</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/kumarankm"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- 
-
-  <a target="_blank"href="https://twitter.com/KumaranKM4"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+ <a target="_blank"href="https://twitter.com/KumaranKM4"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/kumarantechie/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
