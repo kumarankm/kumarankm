@@ -43,6 +43,9 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/kumarantechie/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
-<h2 align="center">Thanks for the visit👀! Follow me✅, for the future open source collabration🥳!</h2>
+<h2 align="center">Follow me✅, for the future open source collabration😃!</h2>
 <br>
-<h4 align="center">I have a gift for you, for visiting my GitHub profile, So here we go, here is a meme</h4>
+<h4 align="center">I have a gift for you🎁, for visiting my GitHub profile👀, So here I have few memes😝. Stay chill and Develop more👨🏻‍💻</h4>
+<p align="center">
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
+</p>
