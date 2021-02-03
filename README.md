@@ -4,8 +4,8 @@
 <p align="center">
 <img src="https://camo.githubusercontent.com/6e2c2f5190c42e4ff6bbd45acf48536ef9bf9e95ad599c59473cf1c701236984/68747470733a2f2f737465656d6974696d616765732e636f6d2f3078302f68747470733a2f2f63646e2e6c6966656861636b65722e72752f77702d636f6e74656e742f75706c6f6164732f323031372f30312f657a6769662e636f6d2d63726f705f313438343536333835392e676966" alt="coding GIF" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarankm" alt="kumarankm" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarankm" alt="kumarankm" /> </p>
 
 Here are some ideas to get you started:
 
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/kumarantechie/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
-<h2 align="center">Thanks for the visit! Follow me, for the future open source collabration🥳!</h2>
+<h2 align="center">Thanks for the visit👀! Follow me✅, for the future open source collabration🥳!</h2>
