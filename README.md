@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Backend development stuff
 - 👯 I’m looking to collaborate on more projects whatever you like to
 - 💬 Ask me about technical stuff and knock knock jokes😉
-- 📫 How to reach me: kumaranmohan1106@gmail.com
+- 📫 How to reach me: Visit my Website : <a href="https://kumarankm.github.io/">Kumaran KM</a>
 - ⚡ Fun fact: I'm the guy who codes everyday🤣 
 
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h2 align="center">📫 Reach out to me on</h2>
+<h2 align="center">📫 Reach me</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/kumarankm"><img src="https://img.shields.io/badge/%5BL%5D-LINKEDIN-blue" alt="linkedin logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank"href="https://kumarankm.github.io"><img src="https://img.shields.io/badge/%3C%5C%3E-PORTFOLIO-brightgreen" alt="portfolio logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
