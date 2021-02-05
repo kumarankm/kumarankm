@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 |---|---|---|---|---|---|---|---|
 
 
-
+<hr>
 <h3 align="center"> Here is my GitHub Status📜🖊️</h3>
 
 <h4 align="center"> Status 1📜</h4>
