@@ -24,26 +24,8 @@ Here are some ideas to get you started:
 
 <hr>
 <h3 align="center"> Here is my GitHub Status📜🖊️</h3>
-
-<h4 align="center"> Status 1📜</h4>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kumarankm&show_icons=true&theme=tokyonight&count_private=true" alt="Status 1" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p><hr>
-
-<h4 align="center"> Status 2📜</h4>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kumarankm&row=2&column=3&margin-w=8&margin-h=8" alt="Status 2" />
-</p><hr>
-
-<h4 align="center"> Status 3📜</h4>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarankm&theme=tokyonight" alt="Status 3"/>
-
-</p><hr>
-
-<h4 align="center"> Status 4📜</h4>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarankm" alt="Status 4" />
+<img src="https://github-readme-stats.vercel.app/api?username=kumarankm&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" alt="Status 1" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p><hr>
 
 <h2 align="center">Follow me✅, for the future open source collabration😃!</h2>
