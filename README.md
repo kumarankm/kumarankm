@@ -21,17 +21,23 @@ Here are some ideas to get you started:
 
 <h4 align="center"> Status 1📜</h4>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kumarankm&show_icons=true&theme=tokyonight&count_private=true" alt="kumarankm" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=kumarankm&show_icons=true&theme=tokyonight&count_private=true" alt="Status 1" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h4 align="center"> Status 2📜</h4>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kumarankm&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=kumarankm&row=2&column=3&margin-w=8&margin-h=8" alt="Status 2" />
 </p>
 
 <h4 align="center"> Status 3📜</h4>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarankm" alt="herokuapp stat" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarankm&theme=tokyonight" alt="Status 3"/>
+
+</p>
+
+<h4 align="center"> Status 4📜</h4>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarankm" alt="Status 4" />
 </p>
 <br> 
 
