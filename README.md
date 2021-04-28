@@ -9,9 +9,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Frontend projects and Python APIs
+- 🔭 I’m currently working on Frontend projects and APIs
 - 🌱 I’m currently learning Backend development stuff
-- 👯 I’m looking to collaborate on more projects whatever you like to
+- 👯 I’m looking forward to collaborate on more projects
 - 💬 Ask me about technical stuff and knock knock jokes😉
 - 📫 How to reach me: Visit my Website : <a href="https://kumarankm.github.io/">Kumaran KM</a>
 - ⚡ Fun fact: I'm the guy who codes everyday🤣
