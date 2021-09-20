@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontend projects and APIs
-- 🌱 I’m currently learning Backend development stuff
+- 🌱 I’m currently learning Backend development stuff and Automation
 - 👯 I’m looking forward to collaborate on more projects
 - 💬 Ask me about tech and memes😉
 - 📫 How to reach me: Visit my Website : <a href="https://kumarankm.github.io/">Kumaran KM</a>
