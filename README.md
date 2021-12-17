@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Frontend projects and APIs
 - 🌱 I’m currently learning Backend development stuff and Automation
 - 👯 I’m looking forward to collaborate on more projects
-- 💬 Ask me about tech and memes😉
+- 💬 Ask me about tech and memes�
 - 📫 How to reach me: Visit my Website : <a href="https://kumarankm.github.io/">Kumaran KM</a>
-- ⚡ Fun fact: I'm the guy who codes everyday🤣
+- ⚡ Talks about: Open source, Web development, Datastructure and Algorithm 
 
 <h2 align="center">Stay connected with me.😉!</h2>
 
