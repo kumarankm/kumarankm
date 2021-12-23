@@ -1,4 +1,4 @@
-<h1 align="center">Heyy there👋 I'm Kumaran KM here!🤓</h1>
+<h1 align="center">Heyy there, I'm Kumaran KM here!🤓</h1>
 <h3 align="center">Techie🧑‍💻  •  Coder💻  •  Learner📚  • Contributor😃</h3>
 
 <p align="center">
