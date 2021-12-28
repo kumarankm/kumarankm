@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=kumarankm&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" alt="Status" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p><hr>
 
-<h2 align="center">Follow me✅, for the future open source collabration😃!</h2>
+<h2 align="center">Follow me✅ for the future open source collabration😃!</h2>
 <h4 align="center">
 <img src ='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kumarankm'/>
 </h4>
